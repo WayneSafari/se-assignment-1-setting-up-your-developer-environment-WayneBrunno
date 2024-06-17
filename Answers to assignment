@@ -1,0 +1,79 @@
+Assignment
+This document outlines the steps to set up an efficient developer environment for software engineering projects. It includes installing an operating system, text editor/IDE, version control system, necessary programming languages and runtimes, package managers, database, and exploring extensions and plugins.
+
+Steps:
+1. Select Your Operating System (OS)
+Download and Install Windows 11
+Go to Windows 11 Download.
+Click on "Download Now" under "Create Windows 11 Installation Media".
+
+Follow the instructions to create a bootable USB drive and install Windows 11.
+2. Install a Text Editor or Integrated Development Environment (IDE)
+Download and Install Visual Studio Code
+Go to Visual Studio Code Download.
+Select the Windows installer and download it.
+
+Run the installer and follow the installation instructions.
+3. Set Up Version Control System
+Install Git
+Go to Git Downloads.
+Select the Windows installer and download it.
+
+Run the installer and follow the installation instructions.
+Configure Git
+Open a terminal or command prompt.
+Configure your Git username and email:
+git config --global user.name "WayneSafari"
+git config --global user.email "wynesoita!gmail.com"
+Create a GitHub Account
+Go to GitHub and sign up for an account if you don't already have one.
+
+Initialize a Git Repository
+Open a terminal or command prompt and navigate to your project directory:
+
+4.Install Necessary Programming Languages and Runtimes
+Install Python
+Go to Python Downloads.
+Download the installer for Windows.
+
+Run the installer and make sure to check the option to add Python to your PATH during the installation.
+
+5. Install Package Managers
+Verify Pip Installation
+Open a terminal or command prompt.
+Verify pip installation:
+
+6. Configure a Database (MySQL)
+Download and Install MySQL
+Go to MySQL Downloads.
+Download the installer for Windows.
+
+Run the installer and follow the instructions to set up and configure the MySQL server.
+
+7. Set Up Development Environments and Virtualization (Optional)
+Install Docker
+Go to Docker Downloads.
+Download and install Docker Desktop for Windows.
+
+8. Explore Extensions and Plugins
+Install VS Code Extensions
+Open Visual Studio Code.
+Navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+
+Search for and install the following essential extensions:
+Python
+GitLens
+Docker
+Prettier - Code formatter
+
+9. Document Your Setup
+Create a Markdown File (author.md)
+Create a new file named author.md.
+
+Reflection
+Challenges faced during setup:
+•	Configuring Git for the first time.
+•	Setting up MySQL server.
+•	Strategies employed to overcome challenges:
+•	Followed official documentation and online tutorials.
+Sought help from online forums and communitie
